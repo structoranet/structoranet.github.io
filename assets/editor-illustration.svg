@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560">
+<defs><filter id="s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-opacity=".14"/></filter></defs>
+<rect x="70" y="40" width="620" height="460" rx="34" fill="#fff" stroke="#dce7e3" filter="url(#s)"/>
+<rect x="70" y="40" width="620" height="72" rx="34" fill="#f7faf9"/>
+<circle cx="110" cy="76" r="8" fill="#d4dfdb"/><circle cx="136" cy="76" r="8" fill="#d4dfdb"/><circle cx="162" cy="76" r="8" fill="#d4dfdb"/>
+<rect x="510" y="60" width="140" height="32" rx="16" fill="#e9f7f2"/>
+<text x="580" y="82" text-anchor="middle" font-size="14" font-family="Arial" fill="#0d5d47" font-weight="700">Feedback ready</text>
+<rect x="120" y="150" width="300" height="20" rx="10" fill="#273238"/>
+<rect x="120" y="198" width="500" height="12" rx="6" fill="#dfe8e5"/>
+<rect x="120" y="226" width="430" height="12" rx="6" fill="#dfe8e5"/>
+<rect x="120" y="254" width="500" height="12" rx="6" fill="#dfe8e5"/>
+<rect x="120" y="302" width="500" height="100" rx="18" fill="#e9f7f2"/>
+<rect x="120" y="302" width="6" height="100" rx="3" fill="#13795b"/>
+<text x="150" y="334" font-size="17" font-family="Arial" fill="#0d5d47" font-weight="700">Clarity suggestion</text>
+<text x="150" y="364" font-size="15" font-family="Arial" fill="#355b50">Move the main point earlier so the reader</text>
+<text x="150" y="387" font-size="15" font-family="Arial" fill="#355b50">understands the purpose immediately.</text>
+<rect x="120" y="438" width="480" height="12" rx="6" fill="#dfe8e5"/>
+<rect x="460" y="390" width="210" height="112" rx="20" fill="#fff5ca" stroke="#ecd776" transform="rotate(-4 565 446)"/>
+<text x="565" y="432" text-anchor="middle" font-size="15" font-family="Arial" fill="#5d4f13" font-weight="700">Your voice stays.</text>
+<text x="565" y="456" text-anchor="middle" font-size="15" font-family="Arial" fill="#5d4f13">The structure gets stronger.</text>
+</svg>
