@@ -51,6 +51,13 @@ h3{line-height:1.25}
 .text-links{columns:2;column-gap:35px;padding:0;list-style:none}
 .text-links li{break-inside:avoid;margin:0 0 13px}
 .text-links a{color:var(--green-dark);font-weight:750}
+.faq-list{max-width:900px;border-top:1px solid var(--line)}
+details{padding:22px 0;border-bottom:1px solid var(--line)}
+summary{cursor:pointer;list-style:none;font-size:1.08rem;font-weight:800;display:flex;justify-content:space-between;gap:20px}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";color:var(--green);font-size:1.35rem}
+details[open] summary::after{content:"–"}
+details p{color:var(--muted);margin:14px 0 0}
 .cta-box{padding:50px;border-radius:30px;background:var(--green-dark);color:#fff}
 .cta-box p{color:#d5e7df;max-width:760px}
 .footer{padding:48px 0;background:#fff;border-top:1px solid var(--line)}
